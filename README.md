@@ -1,2 +1,2 @@
 # studyAndroidCompose
-This repository is for use to study the android jetpack compose 
+This repository was created to hold the apps created while I study the new android jetpack compose 

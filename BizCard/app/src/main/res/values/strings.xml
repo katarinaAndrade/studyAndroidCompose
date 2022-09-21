@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BizCard</string>
+    <string name="test_image_cont_desc">Profile Image Employee of the month</string>
+    <string name="test_name">Mike</string>
+    <string name="test_position">Cute Dog</string>
+    <string name="test_button">Portfolio</string>
+</resources>
